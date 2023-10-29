@@ -41,6 +41,9 @@ This is a demonstration on invoking API using Lamba Authorizer
     ![image](https://github.com/rakshitasupadhya/AWS-API-Gateway-using-Lambda-Authorizer/assets/107621546/42c87d82-3958-48cb-923a-4b12fbda2b7e)
 14. Get the API endpoint under Stages and append Resourcename given in Step 4 and paste in Postman. Click on Headers in Postman and provide the key and wrong value
     ![image](https://github.com/rakshitasupadhya/AWS-API-Gateway-using-Lambda-Authorizer/assets/107621546/b28cc4fb-0a65-4a3b-adab-62860918a6b4)
+15. Give correct values in Postman and check the resust. It should return "hello!"
+    ![image](https://github.com/rakshitasupadhya/AWS-API-Gateway-using-Lambda-Authorizer/assets/107621546/339e711a-69ac-47b7-9435-1fc5ed0c48e1)
+
  
 
 
